@@ -1,0 +1,55 @@
+Género: Drama
+
+Título: El Padrino
+Director: Francis Ford Coppola
+Año: 1972
+
+Título: La lista de Schindler
+Director: Steven Spielberg
+Año: 1993
+
+Título: El indomable Will Hunting
+Director: Gus Van Sant
+Año: 1997
+
+Género: Acción
+
+Título: Mad Max: Furia en el camino
+Director: George Miller
+Año: 2015
+
+Título: Duro de matar
+Director: John McTiernan
+Año: 1988
+
+Título: Gladiador
+Director: Ridley Scott
+Año: 2000
+
+Género: Comedia
+
+Título: Un loco a domicilio
+Director: Ben Stiller
+Año: 1996
+
+Título: Superbad: Ésta es nuestra noche
+Director: Greg Mottola
+Año: 2007
+
+Título: Cazafantasmas
+Director: Ivan Reitman
+Año: 1984
+
+Género: Terror
+
+Título: El exorcista
+Director: William Friedkin
+Año: 1973
+
+Título: El resplandor
+Director: Stanley Kubrick
+Año: 1980
+
+Título: It (Eso)
+Director: Andy Muschietti
+Año: 2017
