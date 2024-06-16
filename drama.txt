@@ -1,0 +1,4 @@
+Pelicula: El origen
+  Director: Christopher Nolan
+  Estreno: 2010
+

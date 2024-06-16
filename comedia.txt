@@ -1,0 +1,13 @@
+Pelicula: El padre de la novia
+  Director: Charles Shyer
+  Estreno: 2022
+
+Pelicula: Proyecto X
+  Director: Nima Nourizadeh
+  Estreno: 2012
+
+Pelicula: Dos policias rebeldes
+  Director: Michael Bay
+  Estreno: 2003
+
+
